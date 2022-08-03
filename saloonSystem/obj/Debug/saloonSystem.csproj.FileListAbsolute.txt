@@ -1,0 +1,12 @@
+C:\Users\kuken\source\repos\saloonSystem\saloonSystem\bin\Debug\saloonSystem.exe.config
+C:\Users\kuken\source\repos\saloonSystem\saloonSystem\bin\Debug\saloonSystem.exe
+C:\Users\kuken\source\repos\saloonSystem\saloonSystem\bin\Debug\saloonSystem.pdb
+C:\Users\kuken\source\repos\saloonSystem\saloonSystem\bin\Debug\ConsoleTables.dll
+C:\Users\kuken\source\repos\saloonSystem\saloonSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kuken\source\repos\saloonSystem\saloonSystem\bin\Debug\ConsoleTables.pdb
+C:\Users\kuken\source\repos\saloonSystem\saloonSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kuken\source\repos\saloonSystem\saloonSystem\obj\Debug\saloonSystem.csproj.CoreCompileInputs.cache
+C:\Users\kuken\source\repos\saloonSystem\saloonSystem\obj\Debug\saloonSystem.csproj.CopyComplete
+C:\Users\kuken\source\repos\saloonSystem\saloonSystem\obj\Debug\saloonSystem.exe
+C:\Users\kuken\source\repos\saloonSystem\saloonSystem\obj\Debug\saloonSystem.pdb
+C:\Users\kuken\source\repos\saloonSystem\saloonSystem\obj\Debug\saloonSystem.csproj.AssemblyReference.cache

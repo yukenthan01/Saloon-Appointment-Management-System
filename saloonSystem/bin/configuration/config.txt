@@ -1,0 +1,4 @@
+BackgroundColor:black
+TextColor:White
+CompanyName:ABC Hair Dressing Saloon
+Password:1
